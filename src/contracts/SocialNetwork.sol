@@ -13,6 +13,14 @@ contract SocialNetwork{
         address author; 
     }
 
+    event PostCreated(
+        uint id,
+        string content,
+        uint tipAmount,
+        address author
+
+    );
+
     constructor() public {
          name = "Decentralized Social Network";
 
@@ -25,5 +33,7 @@ contract SocialNetwork{
         postCount++;
         //create post
         posts[postCount] = Post(postCount, _content, 0, msg.sender);
+        //Trigger Event
+        emit PostCreated(postCount, _content, 0, msg.sender);    
     }
-}
+}  
