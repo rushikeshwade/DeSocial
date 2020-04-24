@@ -1,6 +1,6 @@
 {
-  "main.js": "/DeSocial/static/js/main.39ab6a35.chunk.js",
-  "main.js.map": "/DeSocial/static/js/main.39ab6a35.chunk.js.map",
+  "main.js": "/DeSocial/static/js/main.9d1b8f66.chunk.js",
+  "main.js.map": "/DeSocial/static/js/main.9d1b8f66.chunk.js.map",
   "static/css/1.ad93399d.chunk.css": "/DeSocial/static/css/1.ad93399d.chunk.css",
   "static/js/1.fd36bbc2.chunk.js": "/DeSocial/static/js/1.fd36bbc2.chunk.js",
   "static/js/1.fd36bbc2.chunk.js.map": "/DeSocial/static/js/1.fd36bbc2.chunk.js.map",
@@ -8,6 +8,6 @@
   "runtime~main.js.map": "/DeSocial/static/js/runtime~main.c905676f.js.map",
   "static/css/1.ad93399d.chunk.css.map": "/DeSocial/static/css/1.ad93399d.chunk.css.map",
   "index.html": "/DeSocial/index.html",
-  "precache-manifest.dcaa9227d7a457b2c7ee5a139264accd.js": "/DeSocial/precache-manifest.dcaa9227d7a457b2c7ee5a139264accd.js",
+  "precache-manifest.d9b9b01d4aa1272d54c9c25649ea5dac.js": "/DeSocial/precache-manifest.d9b9b01d4aa1272d54c9c25649ea5dac.js",
   "service-worker.js": "/DeSocial/service-worker.js"
 }

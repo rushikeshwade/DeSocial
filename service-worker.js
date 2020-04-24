@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/DeSocial/precache-manifest.dcaa9227d7a457b2c7ee5a139264accd.js"
+  "/DeSocial/precache-manifest.d9b9b01d4aa1272d54c9c25649ea5dac.js"
 );
 
 workbox.clientsClaim();

@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "39ab6a35e2f736281bc7",
-    "url": "/DeSocial/static/js/main.39ab6a35.chunk.js"
+    "revision": "9d1b8f66b1bbef96c2b1",
+    "url": "/DeSocial/static/js/main.9d1b8f66.chunk.js"
   },
   {
     "revision": "fd36bbc2db620b4f4f4f",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/DeSocial/static/js/runtime~main.c905676f.js"
   },
   {
-    "revision": "0125571c448986a78d89e77ff79bb47c",
+    "revision": "73c7dacc661f53f8efd6772ee701395f",
     "url": "/DeSocial/index.html"
   }
 ];
